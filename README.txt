@@ -1,0 +1,6 @@
+ - Only sample code is provided, as Github only allows 10 mb of data to be uploaded. 
+ - All reuqired libraries are loaded in the first cell. If anything is missing, please find requirements.txt to install.
+ - Code cells should be run in the order they are shown.
+ - The entire notebook is expected to complete in less than 10 minutes, at most. 
+ - The results shown would be altered and inaccurate if notebook is ran on sample code provided. 
+ - To request for full dataset, please reach out to zcyuan@umich.edu and yiranz@umich.edu. 
