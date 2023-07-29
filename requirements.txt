@@ -1,0 +1,8 @@
+pip install pandas
+pip install numpy
+pip install sklearn
+pip install xgboost
+pip install warnings
+pip install matplotlib
+pip install collections
+pip install imblearn
