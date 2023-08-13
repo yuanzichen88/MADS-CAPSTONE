@@ -4,5 +4,6 @@ pip install sklearn
 pip install xgboost
 pip install warnings
 pip install matplotlib
+pip install seaborn
 pip install collections
 pip install imblearn
